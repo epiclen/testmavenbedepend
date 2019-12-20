@@ -8,5 +8,12 @@
     <artifactId>testmavenbedepend</artifactId>
     <version>1.0</version>
 
+    <distributionManagement>
+        <repository>
+            <id>111</id>
+            <url></url>
+        </repository>
+    </distributionManagement>
+
 
 </project>
